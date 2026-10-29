@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Media+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS supporting 4K, 5K, and 8K video playback, YouTube and other streaming site downloads, AirPlay receiving, and DLNA streaming. Works without internet access, no account required. Full offline installation.
+**💻 5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS that supports 4K, 5K, and 8K video playback along with DVD, Blu-ray, and 360° VR video. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About 5KPlayer
 
-5KPlayer is a free media player for Windows and macOS supporting 4K, 5K, and 8K video playback, YouTube and other streaming site downloads, AirPlay receiving, and DLNA streaming. It aims to be an all-in-one media playback and streaming solution.
+5KPlayer is a free media player for Windows and macOS that supports 4K, 5K, and 8K video playback along with DVD, Blu-ray, and 360° VR video. Built-in online video downloader supports YouTube, Vimeo, and hundreds of other sites. 5KPlayer also includes AirPlay and DLNA support for streaming media to and from other devices on the local network.
 
 ---
 
 ## ❌ Problem: 5KPlayer is hard to access
 
-- **Freemium Features** — Some features like hardware decoding and format support require upgrade
-- **Bundled Software Risk** — Some versions historically bundled additional software during installation
-- **Interface Complexity** — Feature-dense interface for users wanting a simple media player
-- **Privacy** — Closed-source player; some privacy-conscious users prefer open-source VLC
+- **Bundled Software** — Installation requires care to avoid bundled offers
+- **Downloader Legal Risk** — Downloading copyrighted video content may be legally restricted
+- **Interface Ads** — Free version shows promotional content in the interface
+- **Alternative Options** — VLC or mpv provide cleaner, fully open-source alternatives
 
 ---
 
@@ -121,7 +121,7 @@
 
 ---
 
-**5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS supporting 4K, 5K, and 8K video playback, YouTube and other streaming site downloads, AirPlay receiving, and DLNA streaming. Install without internet connection today!
+**5KPlayer Free Installer** — 5KPlayer is a free media player for Windows and macOS that supports 4K, 5K, and 8K video playback along with DVD, Blu-ray, and 360° VR video. Install without internet connection today!
 
 <div align="center">
 
